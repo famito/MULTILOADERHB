@@ -1,0 +1,112 @@
+{
+    "loaders": [
+        {
+            "id": "loader",
+            "name": "BO6 UNLOCK ALL",
+            "categoryId": "bo6",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/bo6ua.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/BO6_UA.exe",
+            "status": "updating",
+            "version": "1.0.0"
+        },
+        {
+            "id": "loader2",
+            "name": "BO6 SILENT CHAIR",
+            "categoryId": "bo6",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/SILENT_BO6_VISU.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/BO6_SILENT_IRIS.exe",
+            "status": "offline",
+            "version": "1.0.0"
+        },
+        {
+            "id": "loader3",
+            "name": "BO6 OMBRA CHAIR",
+            "categoryId": "bo6",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/BO6_OMBRA_VISU.png",
+            "downloadUrl": "https://f003.backblazeb2.com/file/cloud-bot/loaders/ldr_lslyiyT.exe",
+            "status": "updating",
+            "version": "1.0.0"
+        },
+        {
+            "id": "loader4",
+            "name": "BO6 LOUD CHAIR",
+            "categoryId": "bo6",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/bo6loud.png",
+            "downloadUrl": "https://f003.backblazeb2.com/file/cloud-bot/loaders/ldr_lslyiyT.exe",
+            "status": "online",
+            "version": "1.0.1"
+        },
+        {
+            "id": "loader5",
+            "name": "BO6 INFERNO CHAIR",
+            "categoryId": "bo6",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/bo6inferno.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/BO6_MAIN.exe",
+            "status": "online",
+            "version": "1.0.0"
+        },
+        {
+            "id": "loader6",
+            "name": "BO6 EXTERNAL PROGRESS",
+            "categoryId": "bo6",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/bo6ext.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/PG1027.exe",
+            "status": "online",
+            "version": "1.0.0"
+        },
+        {
+            "id": "loader7",
+            "name": "BO6 EXTERNAL LDV2",
+            "categoryId": "bo6",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/bo6ext.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/LD1027.exe",
+            "status": "online",
+            "version": "1.0.0"
+        },
+        {
+            "id": "loader8",
+            "name": "BO6 AFK BOT",
+            "categoryId": "bo6",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/afkbot.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRISAFKBOT.exe",
+            "status": "online",
+            "version": "1.0.0"
+        },
+        {
+            "id": "loader9",
+            "name": "MWIII LOUD CHAIR",
+            "categoryId": "mw3",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/mwiiiloud.png",
+            "downloadUrl": "https://f003.backblazeb2.com/file/cloud-bot/loaders/ldr_lslyiyT.exe",
+            "status": "online",
+            "version": "1.0.0"
+        },
+        {
+            "id": "loader10",
+            "name": "FORTNITE EXTERNAL CHAIR",
+            "categoryId": "fortnite",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FORTNITE.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FORTNITE_UNBRANDED.exe",
+            "status": "online",
+            "version": "1.0.0"
+        },
+        {
+            "id": "loader11",
+            "name": "VALORANT EXTERNAL CHAIR",
+            "categoryId": "valorant",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/VALORANT.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/VALORANT_v1.2.exe",
+            "status": "online",
+            "version": "1.0.0"
+        },
+        {
+            "id": "loader12",
+            "name": "PC OPTIMIZER",
+            "categoryId": "others",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/pcopti.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRISOptimizerSetup.exe",
+            "status": "updating",
+            "version": "1.0.0"
+        }
+    ]
+}
