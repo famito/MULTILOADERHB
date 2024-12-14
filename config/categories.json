@@ -1,16 +1,15 @@
 {
   "categories": [
     {
-      "id": "mw2",
-      "name": "MW2",
-      "shortName": "MW2",
-      "gameId": "cod-mw2-2022",
+      "id": "mw2019",
+      "name": "MW19",
+      "shortName": "MW19",
+      "gameId": "cod-mw2-2019",
       "brandColors": {
-        "primary": "#7fca2a",
+        "primary": "#56b0ee",
         "secondary": "#00221B"
       },
-      "fontFamily": "ModernWarfare-8MM6z.ttf",
-      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/MW2.png",
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/MW2019-removebg-preview.png",
       "logoPosition": "left",
       "isDefault": false
     }, 
